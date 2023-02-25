@@ -1,1 +1,1 @@
-I've made this using Mozilla. Chrome is also supported though.
+This is a short sketch to play with element borders in an old movie's style. Elements are a part of improvized menu.
